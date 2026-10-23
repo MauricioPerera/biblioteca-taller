@@ -12,9 +12,9 @@ Proponemos un taller interno para aprender a utilizar la inteligencia artificial
 
 ## Datos del taller
 
-- Duración: 90 minutos.
-- Participantes: 12 personas.
-- Modalidad: presencial.
+- Duración: 60 minutos.
+- Participantes: 8 personas.
+- Modalidad: en línea.
 - Fecha propuesta: 15 de noviembre de 2026.
 
 ## Cómo trabajaremos

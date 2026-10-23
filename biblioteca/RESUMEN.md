@@ -10,8 +10,8 @@ Se propone explicar con palabras sencillas, sin exigir conocimientos técnicos, 
 
 ## Datos propuestos y asuntos pendientes
 
-La planificación menciona 90 minutos, 12 personas, modalidad presencial y el 15 de noviembre de 2026 como fecha propuesta ([nota 02](notas/nota-02.md)). Las fuentes indican que aún deben confirmarse el interés del equipo y la fecha; después se prepararían los materiales y se compartiría la invitación. No se presenta nada como confirmado ([nota 09](notas/nota-09.md)).
+Como antecedente, la planificación inicial menciona 90 minutos, 12 personas y modalidad presencial, con el 15 de noviembre de 2026 como fecha propuesta ([nota 02](notas/nota-02.md)). Después de una prueba, el equipo decidió cambiar a 60 minutos, 8 personas y modalidad en línea, conservando las tres prácticas y la fecha propuesta ([nota 11](notas/nota-11.md)). La fecha aún es una propuesta: las fuentes indican que falta confirmar el interés del equipo y acordar la fecha; después se prepararían los materiales y se compartiría la invitación. No se presenta nada como confirmado ([nota 09](notas/nota-09.md)).
 
 ## Propuesta del taller
 
-La [propuesta actual](../propuesta-taller.md) recoge las actividades y los datos del taller; su fecha sigue siendo propuesta y el cierre conserva la confirmación como siguiente paso.
+La [propuesta actual](../propuesta-taller.md) recoge el ajuste decidido después de la prueba. Se mantienen las actividades, la fecha como propuesta y la confirmación como siguiente paso.

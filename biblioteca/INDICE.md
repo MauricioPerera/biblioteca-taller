@@ -18,6 +18,7 @@ Las notas limpias conservan fecha y fuente. Las etiquetas sirven para localizar 
 ## Participantes y planificación
 
 - [Nota 02 — Datos de partida](notas/nota-02.md) — datos propuestos y por confirmar.
+- [Nota 11 — Ajuste después de la prueba](notas/nota-11.md) — decisión posterior sobre duración, participantes y modalidad.
 - [Nota 07 — Para quién es](notas/nota-07.md) — nivel inicial y tiempo para practicar.
 - [Nota 09 — Siguiente paso](notas/nota-09.md) — confirmaciones antes de invitar.
 
