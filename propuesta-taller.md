@@ -28,3 +28,8 @@ Al terminar, cada participante se llevará un ejemplo de documento mejorado, una
 ## Cierre
 
 El siguiente paso es confirmar el interés del equipo y acordar la fecha. Con esa confirmación prepararemos los materiales y compartiremos la invitación.
+
+## Antes del taller
+- Traer un correo de ejemplo sin datos personales.
+- Tener a mano un documento de práctica de una página.
+- Anotar una tarea que te gustaría mejorar con IA.
