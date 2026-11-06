@@ -31,5 +31,5 @@ El siguiente paso es confirmar el interés del equipo y acordar la fecha. Con es
 
 ## Antes del taller
 - Traer un correo de ejemplo sin datos personales.
-- Tener a mano un documento breve de práctica.
+- Tener a mano un documento de práctica de una página.
 - Anotar una tarea que te gustaría mejorar con IA.
